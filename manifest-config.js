@@ -1,7 +1,7 @@
 const colors = require('./colors');
 
 module.exports = {
-  name: 'Sushi Vision,
+  name: 'Sushi Vision',
   short_name: 'Sushi Vision',
   start_url: '/',
   background_color: colors.background,
